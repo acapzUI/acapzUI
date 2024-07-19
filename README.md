@@ -40,12 +40,8 @@
     </thead>
     <tbody>
       <tr>
-        <td>단국대학교 소프트웨어학과 재학</td>
-        <td>2019.03 - Present</td>
-      </tr>
-      <tr>
-        <td><a href="https://samsungalgorithm.com" target="_blank">삼성전자 DX부문 동계 SW 알고리즘 역량강화 특강 수료</td>
-        <td>2023.01 - 2023.02</td>
+        <td>한양대학교 생명공학과 재학</td>
+        <td>2017.03 - 2024.06</td>
       </tr>
        <tr>
         <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</td>
@@ -83,13 +79,13 @@
 <br><br>
 
 <h3>(ꔷ̥̑.̮ꔷ̥̑) Problem Solving (ꔷ̥̑.̮ꔷ̥̑)</h3>
-  <a href="https://solved.ac/gksdnfwpwk">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
+  <a href="https://solved.ac/acapz">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acapz" />
   </a>
   
 <br><br><br>
 
-<img src="https://ghchart.rshah.org/33333/rndudals" />
+<img src="https://ghchart.rshah.org/33333/acapzUI" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals&layout=compact)
 
