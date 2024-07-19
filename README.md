@@ -87,7 +87,7 @@
 
 <img src="https://ghchart.rshah.org/33333/acapzUI" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=acapzUI&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acapzUI&layout=compact)
 
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
