@@ -34,7 +34,7 @@
       </tr>
        <tr>
         <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</td>
-        <td>2024.06 - Present</td>
+        <td>2024.06 - 2024.08</td>
       </tr>
     </tbody>
   </table>
